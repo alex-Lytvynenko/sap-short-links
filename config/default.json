@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://alexl:TyjfxkE2hAmhqNmu@cluster0.udrap.mongodb.net/SPA?retryWrites=true&w=majority",
+    "jwtSecret": "alexl SAP",
+    "baseUrl": "http://localhost:5000"
+}
